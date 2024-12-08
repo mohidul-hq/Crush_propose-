@@ -1,4 +1,4 @@
-web site link: https://mohidulhaque636373.github.io/Crush_propose-/
+web site link: https://mohidul-hq.github.io/Crush_propose-/
 
 # Crush Propose Website
 
@@ -12,7 +12,7 @@ This project is a fun and interactive website that allows users to propose to th
   
 ## Live Demo
 
-- GitHub Pages: [Crush Propose Website](https://mohidulhaque636373.github.io/Crush_propose-/)
+- GitHub Pages: [Crush Propose Website](https://mohidul-hq.github.io/Crush_propose-/)
 - Alternate Link: [Crush Propose - Alternate Host](https://instagram-reward.wuaze.com/page1.html)
 
 ## Technologies Used
@@ -23,7 +23,7 @@ This project is a fun and interactive website that allows users to propose to th
 
 ## How to Use
 
-1. Open the [Live Demo](https://mohidulhaque636373.github.io/Crush_propose-/) link.
+1. Open the [Live Demo](https://mohidul-hq.github.io/Crush_propose-/) link.
 2. Share the link with your crush.
 3. Watch as they try to click "No", only to end up clicking "Yes"!
 4. Enjoy the fun result!
