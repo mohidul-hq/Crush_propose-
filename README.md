@@ -1,5 +1,3 @@
-web site link: https://mohidul-hq.github.io/Crush_propose-/
-
 # Crush Propose Website
 
 This project is a fun and interactive website that allows users to propose to their crush, where the answer is always "Yes"! The site is designed so that the "No" button is nearly impossible to click, ensuring the proposal gets the right response every time. The project is built using HTML, CSS, and JavaScript for a smooth and playful user experience.
